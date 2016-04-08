@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "private": false,
   "devDependencies": {},
